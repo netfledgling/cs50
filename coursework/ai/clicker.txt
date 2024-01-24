@@ -5,4 +5,7 @@ newest vers: https://cs50.harvard.edu/ai/2024/
 
 lectures:
 https://www.youtube.com/watch?v=WbzNRTTrX0g&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=2
+
+progress:
+Search - Lecture 0 - 
 */
