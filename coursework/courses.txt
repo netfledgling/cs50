@@ -1,0 +1,9 @@
+/*
+As of 1.24.2024, here are the courses I'm interested in:
+- CS50 Python
+- CS50 Web Dev
+- CS50 AI
+- CS50 SQL
+- CS50 Cybersecurity
+- CS50 R {in-prog atm?}
+*/
