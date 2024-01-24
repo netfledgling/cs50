@@ -1,0 +1,7 @@
+/*
+source-code + projects:
+https://cs50.harvard.edu/sql/2024/
+
+lectures:
+https://www.youtube.com/watch?v=wdzA1Z8tKek&list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0
+*/
