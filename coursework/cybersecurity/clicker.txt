@@ -1,0 +1,7 @@
+/*
+source-code + projects:
+https://cs50.harvard.edu/cybersecurity/2023/
+
+lectures:
+https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE
+*/
