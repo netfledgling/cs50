@@ -1,0 +1,8 @@
+/*
+source code + projects:
+newest vers: https://cs50.harvard.edu/ai/2024/
+2020 vers: https://cs50.harvard.edu/ai/2020/
+
+lectures:
+https://www.youtube.com/watch?v=WbzNRTTrX0g&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=2
+*/
