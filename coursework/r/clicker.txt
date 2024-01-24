@@ -1,0 +1,6 @@
+/*
+course in-progress at the time of this file
+
+source-code + projects:
+https://cs50.harvard.edu/r/2024/
+*/
