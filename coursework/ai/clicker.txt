@@ -7,5 +7,5 @@ lectures:
 https://www.youtube.com/watch?v=WbzNRTTrX0g&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=2
 
 progress:
-Search - Lecture 0 - 
+Search - Lecture 0 - 36:30
 */
